@@ -5,7 +5,7 @@ This is a simple web hook using the Particle Internet Button. It will currently 
 
 ## Button
 If you want to recreate this, you'll need an internet button, setup and claimed by a spark account. Start here:
-https://www.particle.io/products/hardware/internet-button
+https://store.particle.io/collections/shields-and-kits
 
 ## Code
 The code is provided in this repository. For the two libraries you'll need to go to libraries in the web editor and
