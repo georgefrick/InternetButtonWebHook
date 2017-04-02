@@ -20,3 +20,7 @@ You could make it play different sounds for different buttons, etc. Make sure to
 
 ## Serial Output
 To use the Serial output, have your internet button connected via usb and type 'particle serial monitor'.
+
+## Soundboard API
+If you setup the Discord Sound Board from Darkside, you can hit /v2/api-docs to see the full available api. For example: http://localhost:8080/v2/api-docs
+
