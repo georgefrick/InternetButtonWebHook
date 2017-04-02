@@ -1,6 +1,9 @@
 # InternetButtonWebHook
 This is a simple web hook using the Particle Internet Button. It will currently do a HTTP POST to a Discord Bot to play a sound effect in the specified users channel. (It's a GG Button)
 
+YouTube demo: https://www.youtube.com/watch?v=Xh_Vnjorjzk
+Blog post:
+
 # Setup
 
 ## Button
